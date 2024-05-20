@@ -4,7 +4,7 @@
 **giuppiF/giuppiF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Claudio](https://claudiodallara.netlify.app](https://flowcv.com/resume/tqqd4t8u6r)
+I am [Claudio](https://flowcv.com/resume/tqqd4t8u6r) 
 a software developer from 🇮🇹 with a strong interest in
 web applications and BlockChain .
 
