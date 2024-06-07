@@ -1,6 +1,8 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cirilleo&label=Profile%20views&color=0e75b6&style=flat" alt="cirilleo" /> </p>
+
+
 ### Hello World , i'm Claudio 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cirilleo&label=Profile%20views&color=0e75b6&style=flat" alt="cirilleo" /> </p>
 
 I am [Claudio](https://flowcv.com/resume/tqqd4t8u6r) 
 a software developer from 🇮🇹 with a strong interest in
