@@ -4,7 +4,7 @@
 ### Hello World , i'm Claudio 👋
 
 
-I am [Claudio](https:/claudiodallara.it) 
+I am [Claudio](https://claudiodallara.it) 
 a software developer from 🇮🇹 with a strong interest in
 web applications and BlockChain .
 
@@ -13,7 +13,7 @@ web applications and BlockChain .
 ## 📫 How to reach me
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/claudio-dall-ara-730aa0302/) 👨🏻‍💻
-- Other [Portfolio](https://claudiodallara.netlify.app/) :satellite:
+- Other [Portfolio](https://claudiodallara.it) :satellite:
 
 ## Stats Available
 
