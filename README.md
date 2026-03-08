@@ -1,22 +1,64 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cirilleo&label=Profile%20views&color=0e75b6&style=flat" alt="cirilleo" /> </p>
+# <h1 align="center">Hi, I'm Claudio 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=DevOps+%26+Observability+Engineer;Web3+Protocol+Builder;Kafka+%26+Infrastructure+Enthusiast" alt="Typing SVG" />
+</p>
 
-### Hello World , i'm Claudio 👋
+---
 
+### 👨‍💻 About Me
 
-I am [Claudio](https://claudiodallara.it) 
-a software developer from 🇮🇹 with a strong interest in
-web applications and BlockChain .
+By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance Kafka clusters and cloud-native infrastructure. By night, I'm a **Web3 Builder**, architecting decentralized protocols and low-level educational platforms.
 
+- 🇮🇹 Based in Italy
+- 🚀 **2021 Professional Pivot**: Successfully transitioned from 22 years of leadership to my true passion: Systems Engineering.
+- 🎯 **Current Mission**: Building resilient, observable, and trustless systems.
 
+---
 
-## 📫 How to reach me
+### 🛠️ Tech Stack & Ecosystems
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/claudio-dall-ara-730aa0302/) 👨🏻‍💻
-- Other [Portfolio](https://claudiodallara.it) :satellite:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,linux,docker,kubernetes,terraform,ansible,githubactions,prometheus,grafana" alt="DevOps Icons" />
+</p>
 
-## Stats Available
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,nodejs,react,nextjs,solidity" alt="Languages & Frameworks" />
+</p>
 
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=boobaGreen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=boobaGreen&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=boobaGreen&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,aws,gcp,vercel,netlify" alt="Infrastructure & Databases" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+| Project                                                                          | Description                                      | Tech                      |
+| :------------------------------------------------------------------------------- | :----------------------------------------------- | :------------------------ |
+| **[Impara il C](https://github.com/boobaGreen/C-course---Salvatore-Sanfilippo)** | Interactive platform to master C (with antirez). | `C`, `WASM`, `React`      |
+| **[LinuxQuest](https://github.com/boobaGreen/lpi_essential/tree/multi-course)**  | Multi-cert training suite for LPI & RHCSA.       | `Linux`, `TypeScript`     |
+| **[GiftBlitz](https://github.com/boobaGreen/GiftBlitzFull)**                     | P2P gift card marketplace on IOTA.               | `IOTA`, `Solidity`, `EVM` |
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=boobaGreen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobaGreen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boobaGreen&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/claudio-dall-ara-730aa0302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Claudio Dall'Ara" height="30" width="40" /></a>
+  <a href="https://claudiodallara.it" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/2ecc71/domain.png" alt="Portfolio" height="30" width="30" /></a>
+  <img src="https://komarev.com/ghpvc/?username=boobaGreen&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" height="25" />
+</p>
