@@ -28,7 +28,7 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,js,ts,nodejs,react,nextjs,solidity" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=c,js,ts,nodejs,react,nextjs,solidity" alt="Languages & Frameworks" />
 </p>
 
 <p align="left">
