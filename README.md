@@ -1,7 +1,7 @@
 # <h1 align="center">Hi, I'm Claudio 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boobaGreen&label=Profile%20views&color=2ecc71&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=boobaGreen&label=Profile%20views&color=2ecc71&style=flat-square&base=3000" alt="Profile Views" />
 </p>
 
 ---
