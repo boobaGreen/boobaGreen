@@ -1,10 +1,5 @@
 # <h1 align="center">Hi, I'm Claudio 👋</h1>
 
-<!--
-IMPORTANTE: Le immagini statistiche potrebbero apparire come "rotte" nell'anteprima dell'editor.
-SALVA il file e guarda il tuo profilo live per vederle correttamente!
--->
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=boobaGreen&label=Profile%20views&color=2ecc71&style=flat-square" alt="Profile Views" />
 </p>
@@ -50,7 +45,9 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 ### 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boobaGreen&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Overall Stats" />
+  <img src="https://img.shields.io/github/stars/boobaGreen?style=flat-square&labelColor=343b41&color=2ecc71&logo=github" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/boobaGreen?style=flat-square&labelColor=343b41&color=2ecc71&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/directory-file-count/boobaGreen/Portfolio2026?style=flat-square&labelColor=343b41&color=2ecc71&logo=github&label=repositories" alt="Repos" />
 </p>
 
 <p align="center">
@@ -58,16 +55,7 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobaGreen&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boobaGreen&theme=github_dark&hide_border=true" alt="Contribution Streak" />
-</p>
-
----
-
-### 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/boobaGreen/boobaGreen/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -77,5 +65,4 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 <p align="left">
   <a href="https://www.linkedin.com/in/claudio-dall-ara-730aa0302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Claudio Dall'Ara" height="30" width="40" /></a>
   <a href="https://claudiodallara.it" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/2ecc71/domain.png" alt="Portfolio" height="30" width="30" /></a>
-  <img src="https://komarev.com/ghpvc/?username=boobaGreen&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" height="25" />
 </p>
