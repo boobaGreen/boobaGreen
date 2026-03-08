@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=DevOps+%26+Observability+Engineer;FullStack+%26+Web3+Developer;Kafka+%26+Infrastructure+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=boobaGreen&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -42,7 +46,7 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 Performance & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boobaGreen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Overall Stats" />
@@ -50,7 +54,19 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boobaGreen&theme=tokyonight&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boobaGreen&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Journey
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/boobaGreen/boobaGreen/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
