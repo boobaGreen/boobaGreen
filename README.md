@@ -1,14 +1,14 @@
 # <h1 align="center">Hi, I'm Claudio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=435&lines=DevOps+%26+Observability+Engineer;Web3+Protocol+Builder;Kafka+%26+Infrastructure+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=DevOps+%26+Observability+Engineer;FullStack+%26+Web3+Developer;Kafka+%26+Infrastructure+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance Kafka clusters and cloud-native infrastructure. By night, I'm a **Web3 Builder**, architecting decentralized protocols and low-level educational platforms.
+By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance Kafka clusters and cloud-native infrastructure. By night, I'm a **FullStack & Web3 Developer**, architecting decentralized protocols and low-level educational platforms.
 
 - 🇮🇹 Based in Italy
 - 🚀 **2021 Professional Pivot**: Successfully transitioned from 22 years of leadership to my true passion: Systems Engineering.
