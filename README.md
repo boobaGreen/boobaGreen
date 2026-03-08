@@ -1,11 +1,7 @@
 # <h1 align="center">Hi, I'm Claudio 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=DevOps+%26+Observability+Engineer;FullStack+%26+Web3+Developer;Kafka+%26+Infrastructure+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boobaGreen&theme=tokyonight&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=boobaGreen&label=Profile%20views&color=2ecc71&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -50,7 +46,6 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boobaGreen&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobaGreen&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -58,6 +53,7 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobaGreen&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=boobaGreen&theme=vision-friendly-dark&hide_border=true" alt="Contribution Streak" />
 </p>
 
