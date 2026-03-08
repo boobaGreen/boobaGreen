@@ -1,5 +1,10 @@
 # <h1 align="center">Hi, I'm Claudio 👋</h1>
 
+<!--
+IMPORTANTE: Le immagini statistiche potrebbero apparire come "rotte" nell'anteprima dell'editor.
+SALVA il file e guarda il tuo profilo live per vederle correttamente!
+-->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=boobaGreen&label=Profile%20views&color=2ecc71&style=flat-square" alt="Profile Views" />
 </p>
@@ -45,16 +50,16 @@ By day, I'm a **DevOps & Observability Engineer**, optimizing high-performance K
 ### 📊 Performance & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boobaGreen&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=boobaGreen&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Overall Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boobaGreen&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boobaGreen&theme=github&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobaGreen&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boobaGreen&theme=vision-friendly-dark&hide_border=true" alt="Contribution Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boobaGreen&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boobaGreen&theme=github_dark&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ---
